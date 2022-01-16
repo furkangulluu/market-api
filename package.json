@@ -1,0 +1,16 @@
+{
+  "name": "market-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:server": "json-server --watch db.json"
+  },
+  "author": "furkangullu",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
